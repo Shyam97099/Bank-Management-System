@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MiniStatement",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.MiniStatement",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "BalanceEnquiry",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.BalanceEnquiry",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "PalindromNum",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.PalindromNum",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "PinChange",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.PinChange",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "FastCash",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.FastCash",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Withdrawl",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.Withdrawl",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Withdrow",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.Withdrow",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Deposit",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.Deposit",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Transaction",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.Transaction",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "LoginPage",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.LoginPage",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.PrimeNumber",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "j",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.j",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SignupThree",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.SignupThree",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CommonFactors",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.CommonFactors",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.Main",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestClass",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.TestClass",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SignupTwo",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.SignupTwo",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Addsub",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.Addsub",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Demo",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.Demo",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Signup",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.Signup",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rev",
+            "request": "launch",
+            "mainClass": "Rev",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Launch rev",
+            "request": "launch",
+            "mainClass": "rev",
+            "projectName": "BankManagementSystem_e4cb488e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoginPg",
+            "request": "launch",
+            "mainClass": "BankManagementSystem.LoginPg",
+            "projectName": "BankManagementSystem_e4cb488e"
+        }
+    ]
+}
